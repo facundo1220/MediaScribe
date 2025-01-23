@@ -1,0 +1,7 @@
+name: media_scribe_env
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt
